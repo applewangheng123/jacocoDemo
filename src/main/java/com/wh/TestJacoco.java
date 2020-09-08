@@ -14,7 +14,7 @@ public class TestJacoco {
 
     static void enna() {
 
-        System.out.print("enna......");
+        System.out.print("enna...gg..ss.");
     }
 
 
