@@ -1,7 +1,7 @@
-package com.wh;
+package panda;
 import org.testng.annotations.Test;
-public class TestJacoco {
 
+public class TestWanhengTest {
 
     @Test
     public void testBranch(){
@@ -14,7 +14,7 @@ public class TestJacoco {
 
     static void enna() {
 
-        System.out.print("enna...gg..ss.");
+        System.out.print("enna......");
     }
 
 
