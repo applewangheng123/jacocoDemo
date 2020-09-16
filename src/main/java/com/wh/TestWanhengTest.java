@@ -1,4 +1,4 @@
-package panda;
+package com.wh;
 import org.testng.annotations.Test;
 
 public class TestWanhengTest {
@@ -7,7 +7,6 @@ public class TestWanhengTest {
     public void testBranch(){
       enna();
       TestAddxx();
-
       testAddxxq();
     }
 
